@@ -14,12 +14,17 @@ O objetivo deste projeto é reunir outros já feitos e seprara entre abertos e o
 
 ## Todo
 
+- Implementar barra de navegação na página de entrada
 - Instalar Vue
 - Modelar página de entrada
 - Criar 2 aplicações vue de teste diferentes
+- Ocultar página de registro
 
 ## Executado
 <s>
+<P>Exibe aplicações separadas por autenticadas e geral</p>
+<p>Remodelada página inicial</p>
+<p>Criar autenticação</p>	
 <p>Configurar banco de dados com usuário e senha</p>
 <p>Modelar dB para aplicação inicial</p>
 <p>Criar usuário padrão</p>
