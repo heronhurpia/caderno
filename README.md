@@ -1,5 +1,5 @@
 <p align="center">
-<h3>Caderno de notas</h3>
+<h1>Caderno de notas</h1>
 </p>
 
 ## Descrição e funcionalidades
@@ -14,10 +14,13 @@ O objetivo deste projeto é reunir outros já feitos e seprara entre abertos e o
 
 ## Todo
 
-- Configurar banco de dados
-- Modelar dB para cada aplicação
 - Instalar Vue
 - Modelar página de entrada
 - Criar 2 aplicações vue de teste diferentes
 
+<t>
+- Configurar banco de dados com usuário e senha
+- Modelar dB para aplicação inical
+- Criar usuário padrão
+</t>
 
