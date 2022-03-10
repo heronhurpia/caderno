@@ -18,9 +18,9 @@ O objetivo deste projeto é reunir outros já feitos e seprara entre abertos e o
 - Modelar página de entrada
 - Criar 2 aplicações vue de teste diferentes
 
-<t>
+<s>
 - Configurar banco de dados com usuário e senha
 - Modelar dB para aplicação inical
 - Criar usuário padrão
-</t>
+</s>
 
